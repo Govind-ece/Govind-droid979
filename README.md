@@ -4,7 +4,7 @@
 
 ### ECE STUDENT • DEVELOPER • BUILDER
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1400&color=4F8CFF&center=true&vCenter=true&width=700&lines=Electronics+%C3%97+Software+%C3%97+AI;ECE+Student+%7C+Developer+%7C+Builder;Learning.+Building.+Experimenting." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1400&color=4F8CFF&center=true&vCenter=true&width=600&lines=Electronics+%C3%97+Software+%C3%97+AI;ECE+Student+%7C+Developer+%7C+Builder;Learning.+Building.+Experimenting." />
 
 <br><br>
 
