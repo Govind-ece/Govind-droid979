@@ -2,20 +2,15 @@
 
 <img src="./github-banner.png" width="100%" />
 
-</div>
-
 <br>
-<div align="center">
 
-# ⚡ GOVIND JOSHI
+### `ECE STUDENT` • `DEVELOPER` • `BUILDER`
 
-### ECE STUDENT • DEVELOPER • BUILDER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1400&color=4F8CFF&center=true&vCenter=true&width=600&lines=Electronics+%C3%97+Software+%C3%97+AI;ECE+Student+%7C+Developer+%7C+Builder;Learning.+Building.+Experimenting." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4F8CFF&center=true&vCenter=true&width=500&lines=Electronics+%C3%97+Software+%C3%97+AI;Building+Real+World+Projects;Learning.+Building.+Experimenting." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Govind-droid979&label=PROFILE+VIEWS&color=4F8CFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Govind-ece&label=PROFILE+VIEWS&color=4F8CFF&style=for-the-badge" />
 
 </div>
 
@@ -23,175 +18,150 @@
 
 ## 👨‍💻 About Me
 
-I'm **Govind**, an Electronics & Communication Engineering student at
-**Lovely Professional University**.
+Hi, I'm **Govind** — an Electronics & Communication Engineering student at **Lovely Professional University**.
 
-I'm interested in the intersection of:
+I'm interested in building systems where **hardware and software work together**, while exploring the possibilities of AI and intelligent technology.
 
-### ⚡ Electronics × 💻 Software × 🧠 AI
-
-Currently, I'm exploring:
+### ⚡ What I'm Into
 
 - 🎓 Electronics & Communication Engineering
-- 🐍 Python & Programming
-- 🌐 Web Development
-- ⚡ Embedded Systems
-- 📡 ESP8266 & IoT
-- 🤖 AI & Intelligent Systems
-- 🔧 Hardware + Software integration
+- 🐍 Python & programming
+- 🌐 Web development
+- ⚡ Embedded systems
+- 📡 IoT & wireless communication
+- 🤖 AI & intelligent systems
+- 🚀 Building practical projects
 
-> I learn by building real things, experimenting with ideas,
-> breaking things, fixing them, and building them better.
+> **I learn by building — not just by watching.**
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
+### 🩸 BloodBridge
 
-<td width="50%" align="center">
+**Python-based blood donation management system**
 
-## 🩸 Blood Bridge
+A beginner-friendly application designed around connecting blood donors and recipients.
 
-**Python-based blood donation project**
+**Built with:**  
+`Python` `CLI` `File Handling`
 
-A software project focused on making blood donor and recipient management simpler.
+---
 
-<br>
+### 🌊 Flood Detection System
 
-`Python`
+**ESP8266-based water-level monitoring system**
 
-</td>
+A hardware + software project using ultrasonic sensing and ESP-NOW communication to monitor water levels.
 
-<td width="50%" align="center">
+**Built with:**  
+`ESP8266` `ESP-NOW` `HC-SR04` `IoT`
 
-## 🌊 Flood Detection System
+---
 
-**ESP8266-based water monitoring**
+### 🌐 Personal Portfolio
 
-A sensor-based system designed to monitor water levels and transmit readings for further processing.
+**My developer & ECE portfolio**
 
-<br>
+A personal website designed to showcase my education, projects, skills and journey.
 
-`ESP8266` `ESP-NOW` `Sensors`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-## 🌐 Personal Portfolio
-
-**Developer & ECE portfolio**
-
-A personal website showcasing my journey, projects, skills and goals.
-
-<br>
-
+**Built with:**  
 `HTML` `CSS` `JavaScript`
 
-</td>
+---
 
-<td width="50%" align="center">
+### ⚙️ ECE Experiments
 
-## ⚙️ ECE Projects
+Hands-on experiments involving:
 
-**Hardware + Software experiments**
-
-Exploring Arduino, sensors, embedded systems and electronics through practical projects.
-
-<br>
-
-`Arduino` `C/C++` `Electronics`
-
-</td>
-
-</tr>
-</table>
+`Arduino` `Sensors` `C/C++` `Embedded Systems`
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
-### 🌐 Web Development
+### Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚡ Electronics & Embedded
-
-<p>
-<img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-`ESP8266` • `ESP-NOW` • `Sensors` • `IoT` • `Embedded Systems`
-
-### 🔧 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+### Electronics & Embedded
+
+`Arduino` • `ESP8266` • `ESP-NOW` • `HC-SR04` • `Sensors` • `IoT`
+
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <div align="center">
 
 ### 🐍 Python
 
-↓
+Building a strong programming foundation.
+
+⬇️
 
 ### 🌐 Web Development
 
-↓
+Learning how to build modern websites and applications.
+
+⬇️
 
 ### ⚡ Embedded Systems
 
-↓
+Connecting software with real-world electronics.
+
+⬇️
 
 ### 🤖 AI & Intelligent Systems
 
+Exploring how intelligent software can interact with the physical world.
+
 </div>
 
 ---
 
-# 🎯 My Direction
+## 🎯 My Direction
 
 <div align="center">
 
-### ECE
-### ↓
-### Embedded Systems
-### ↓
-### Software Development
-### ↓
-### AI & Intelligent Systems
+### `ECE`
+**↓**
+### `EMBEDDED SYSTEMS`
+**↓**
+### `SOFTWARE`
+**↓**
+### `AI`
+**↓**
+### `INTELLIGENT SYSTEMS`
 
 </div>
 
-I'm working toward understanding both sides of technology:
+My long-term goal is to understand both sides of technology:
 
-**the physical systems that make things possible ⚡**
+**the hardware that makes a system possible ⚡**
 
 and
 
-**the software that makes them intelligent 🧠**
+**the software that makes it intelligent 🧠**
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub
 
 <div align="center">
 
@@ -199,13 +169,7 @@ and
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-ece&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=Govind-ece&theme=tokyonight&hide_border=true" />
 
@@ -213,16 +177,26 @@ and
 
 ---
 
-# 🤝 Connect With Me
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/Govind-ece">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/Itz_govind979">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/Itz_govind979">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </div>
@@ -233,8 +207,6 @@ and
 
 ### ⚡ BUILD • LEARN • EXPERIMENT • REPEAT
 
-<br>
-
-*Always working on the next idea.*
+`Electronics` × `Software` × `AI`
 
 </div>
