@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./github-banner.png" width="100%" />
+
+</div>
+
+<br>
+<div align="center">
+
 # ⚡ GOVIND JOSHI
 
 ### ECE STUDENT • DEVELOPER • BUILDER
